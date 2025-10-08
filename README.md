@@ -1,6 +1,7 @@
 # -S-DES加密算法实现的作业
 编译和运行
 javac SDES.java SDES_GUI.java Main.java
+
 java Main
 # -使用说明:
 -在 密钥 输入框填入 10 位二进制（例如 1010000010）
